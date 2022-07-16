@@ -1,5 +1,5 @@
 # Hey this is us 👋 
-## VISHWA is the official space science and astronomy club of VJTI, established with an aim to provide technical opportunities to VJTI students in the field of Astronomy.
+## VISHWA is the official space science and astronomy club of VJTI, established with an aim to provide technical opportunities to VJTI students in the field of Space Technology.
 
 <p align="center" width="100%">
     <img src="https://user-images.githubusercontent.com/108722498/179338918-74105f76-52bd-429a-b61c-baa3520daf91.gif"> 
