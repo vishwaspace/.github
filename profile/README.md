@@ -10,3 +10,5 @@
 [![Twitter](https://img.shields.io/badge/<VishwaAstroclub>-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/VishwaAstroclub)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishwa-vjti-713837235/)
 [![Instagram](https://img.shields.io/badge/<vishwavjti>-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/vishwavjti/)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vishwaspace" alt="vishwaspace" /> </p>
